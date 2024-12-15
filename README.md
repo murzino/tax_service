@@ -5,7 +5,7 @@
 2. Перейдите в директорию проекта:
    cd tax_service
 
-3. Соберите Docker-образ:
+3. Соберите Docker-образ (docker desktop должен быть запущен):
     docker build -t tax_servise_progect .
 
 4. Запустите контейнер:
