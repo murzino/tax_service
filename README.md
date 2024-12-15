@@ -3,7 +3,7 @@
    git clone https://github.com/murzino/tax_service.git
 
 2. Перейдите в директорию проекта tax_service
-   cd /(Путь к папке проекта)/tax_service
+   cd tax_service
 
 3. Соберите Docker-образ:
     docker build -t tax_servise_progect .
